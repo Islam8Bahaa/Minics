@@ -140,14 +140,6 @@ body.pushLeft {
 .header-nav nav .menu-icon,
 .header-nav nav .close-icon {
     display: none;
-    width: 35px;
-    height: 35px;
-    padding: 4px 5px;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
 }
 
 /* ---------- Start Style swiper ----------*/
