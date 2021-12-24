@@ -6,7 +6,7 @@ var swiper = new Swiper(".mySwiper", {
 });
 
 $(document).ready(function () {
-    var menuIcon = $('.header-nav nav  ')
+    var menuIcon = $('.header-nav nav .icon  ')
     $(menuIcon).click(function () {
         $('nav ul').toggleClass('show-menu');
         $('.overlay').fadeToggle();
